@@ -923,6 +923,7 @@
     <string name="navigation_bar_height_landscape_summary">Navigation Bar height while in landscape</string>
     <string name="navigation_bar_width_title">Navigation Bar width</string>
     <string name="navigation_bar_width_summary">Navigation Bar height if the bar is along a side</string>
+    <string name="navigation_bar_warning_no_navigation_present">No other navigation is currently enabled. Turning off the navigation bar can result in an unusable device. Do you want to enable pie controls instead?</string>
 
     <!-- Dimens -->
     <string name="size_42_dp_default">42 dp (default)</string>
@@ -1140,6 +1141,8 @@
     <string name="recents_use_slim_summary">Use Slim Recents instead of default recents view</string>
 
     <!-- Button shorcut actions -->
+    <string name="shortcut_action_navbar">Navigation bar</string>
+    <string name="shortcut_action_pie">Pie controls</string>
     <string name="shortcut_action_app">Custom app</string>
     <string name="shortcut_action_home">Home</string>
     <string name="shortcut_action_back">Back</string>
@@ -1387,5 +1390,7 @@
     <string name="pie_menu_summary">Enable or disable menu button</string>
     <string name="pie_menu_disable">Disable menu button</string>
     <string name="pie_menu_enable">Enable menu button</string>
+    <string name="pie_warning_no_navigation_present">No other navigation is currently enabled. Turning off pie controls can result in an unusable device. Do you want to enable navigation bar instead?</string>
+    <string name="pie_trigger_warning">Minimum one of the main triggers (bottom, left or right) needs to be enabled.</string>
 
 </resources>
